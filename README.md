@@ -1,6 +1,6 @@
-# 📊 InsightBot: Business Data Insights Chatbot
+# 📊 Chatlytics: Business Data Insights Chatbot
 
-InsightBot is an intelligent Streamlit-based chatbot that provides conversational insights from:
+Chatlytics is an intelligent Streamlit-based chatbot that provides conversational insights from:
 
 - Uploaded **PDF reports** using RAG-based document QA
 - Uploaded **CSV/Excel files** using LLM-based data analysis and visualization
